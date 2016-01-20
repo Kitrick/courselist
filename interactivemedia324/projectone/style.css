@@ -1,0 +1,13 @@
+body {
+	background: #27f1bf;
+}
+img {
+	position: absolute;
+	top: 200px;
+	left: 800px;
+	width: 500px;
+	height: 700px;
+}
+h1 {
+	font-size: 100px;
+}
